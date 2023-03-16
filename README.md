@@ -28,6 +28,6 @@ This project is licensed under the MIT License. Contribute as you want
 
 Contributors :
 
-1 
+1 Aakash Ajay Jain
 2
 3
