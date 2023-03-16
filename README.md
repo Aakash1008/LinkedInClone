@@ -1,7 +1,6 @@
 # LinkedInClone
+
 A Linked Clone Made with Pure HTML, CSS with the virtue of three friends to learn HTML, CSS, GIT, GITHUB
-
-
 
 LinkedIn Clone
 This is a clone of the popular professional networking platform, LinkedIn. The project is built using HTML and CSS only. It aims to replicate the key features of LinkedIn, such as user authentication, profile creation, and job postings.
@@ -24,10 +23,8 @@ The project uses Font Awesome for icons.
 License
 This project is licensed under the MIT License. Contribute as you want
 
-
-
 Contributors :
 
 1 Aakash Ajay Jain
-2
+2 Kushal Agrawal
 3 Shimpi Tejas
